@@ -1,7 +1,7 @@
-🎬 Netflix Content Analysis — Exploratory Data Analysis |
+🎬 Netflix Content Analysis — Exploratory Data Analysis 
 An exploratory data analysis (EDA) of Netflix's movie and TV show catalog using Python.
 
-What This Project Covers |
+What This Project Covers 
 Cleaning and preprocessing real-world data
 Handling missing values
 Extracting insights from dates and text columns
@@ -16,23 +16,23 @@ Building 5 visualizations to answer key questions about Netflix content
 | chart4_top_genres.png |  Bar chart — Top 10 genres |
 | chart5_type_over_time.png |  Line chart — Movies vs TV Shows over time |
 
-🛠️Tools & Libraries |
+🛠️Tools & Libraries 
 Python 3.14
 pandas
 matplotlib
 seaborn
 
-📂Dataset |
+📂Dataset 
 Source: Netflix Movies and TV Shows — Kaggle
 The dataset contains ~8,800 titles with details like type, country, genre, director, cast, and date added.
 
-▶️How to Run |
-Clone this repo |
-Install dependencies: |
+▶️How to Run 
+Clone this repo 
+Install dependencies: 
 
-   pip install pandas matplotlib seaborn |
+   pip install pandas matplotlib seaborn 
 
-Place netflix_titles.csv in the same folder |
-Run the script: |
+Place netflix_titles.csv in the same folder 
+Run the script: 
 
-   python netflix.py |
+   python netflix.py 
