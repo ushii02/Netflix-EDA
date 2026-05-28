@@ -8,11 +8,13 @@ Extracting insights from dates and text columns
 Building 5 visualizations to answer key questions about Netflix content
 
 📊 Charts Generated
-ChartDescriptionchart1_type_split.pngPie chart — Movies vs TV Shows
-chart2_content_per_year.pngBar chart — Titles added per year
-chart3_top_countries.pngBar chart — Top 10 countries by content
-chart4_top_genres.pngBar chart — Top 10 genres
-chart5_type_over_time.pngLine chart — Movies vs TV Shows over time
+| Chart | Description |
+|---|---|
+| chart1_type_split.png | 🥧 Pie chart — Movies vs TV Shows |
+| chart2_content_per_year.png | 📅 Bar chart — Titles added per year |
+| chart3_top_countries.png | 🌍 Bar chart — Top 10 countries by content |
+| chart4_top_genres.png | 🎭 Bar chart — Top 10 genres |
+| chart5_type_over_time.png | 📈 Line chart — Movies vs TV Shows over time |
 
 🛠️Tools & Libraries
 Python 3.14
